@@ -1,1 +1,1 @@
-This is the readme file for the diabetes data analysis. 
+This project explores the relationship between various factors and the prevalence of diabetes. The dataset used in this project includes information about age, gender, BMI, hypertension, heart disease, smoking history, HbA1c levels, blood glucose levels, and diabetes status. The goal of this analysis is to identify key factors that are most strongly associated with the presence of diabetes.
